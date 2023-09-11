@@ -1,0 +1,23 @@
+body {
+    background-color: #bea281;
+    align-content: end;
+}
+
+.big_title {
+    font-size: 40px;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #262A56;
+}
+
+.small_title {
+    font-size: 30px;
+    color: #B8621B;
+}
+
+div {
+    background-color: #E3CCAE;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+}
